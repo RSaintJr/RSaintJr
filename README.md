@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Roberto Jr, I study computer science and in the future I intend to be a game developer</div>  
+### <div align="center">I'm Roberto Jr, i'm 19 years old. I'm studying computer science at IFC - Rio do sul</div>  
   
 
 - 🌱 I’m currently learning Java, PHP and C  
