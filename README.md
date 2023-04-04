@@ -6,7 +6,7 @@
 ### <div align="center">I'm Roberto Jr, I study computer science and in the future I intend to be a game developer</div>  
   
 
-- 🌱 I’m currently learning Java and C  
+- 🌱 I’m currently learning Java, PHP and C  
   
 
 - 🎮 Ask me anything about games and manga  
