@@ -12,7 +12,7 @@
 - 🎮 Ask me anything about games and manga  
   
 
-- ⚡ Fun fact: I'm brazilian  
+- ⚡ Fun fact: I've been playing video games since I was 5  
   
 
 <br/>  
