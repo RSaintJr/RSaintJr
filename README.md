@@ -60,8 +60,9 @@
 
 <br/>  
 
+
+## Github Stats
 <div class="center">
-## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RSaintJr&show_icons=true&theme=apprentice)
 </div>
 <br/>  
