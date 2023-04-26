@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Roberto Jr and I'm 19 years old. I'm studying computer science at IFC - Rio do sul</div>  
   
