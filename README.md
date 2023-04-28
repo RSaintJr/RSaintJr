@@ -4,7 +4,8 @@
  
 
 ### <div align="center">I'm Roberto Jr and I'm 19 years old. I'm studying computer science at IFC - Rio do sul</div>  
-  
+
+<br/>
 
 - 🌱 I’m currently learning Java, PHP and C  
   
