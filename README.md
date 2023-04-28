@@ -1,6 +1,6 @@
-<p style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/106887493/235132604-fb900f63-8486-4daa-ae40-d9b43a07153d.gif" alt="GIF">
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106887493/235132604-fb900f63-8486-4daa-ae40-d9b43a07153d.gif" align="center" style="width: 100%" />
+</div>
  
 
 ### <div align="center">I'm Roberto Jr and I'm 19 years old. I'm studying computer science at IFC - Rio do sul</div>  
