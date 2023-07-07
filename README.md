@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Java, PHP and C  
+- 🌱 I’m currently learning Java, PHP and C++
   
 
 - 🎮 Ask me anything about games and manga  
