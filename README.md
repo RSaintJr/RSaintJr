@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/106887493/235132604-fb900f63-8486-4daa-ae40-d9b43a07153d.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/FearlessSociableGartersnake-max-1mb.gif" align="center" style="width: 100%" />
 </div>
  
 
