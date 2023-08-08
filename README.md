@@ -61,9 +61,9 @@
 
 
 
-## Github Stats  
+## Activity Graph  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RSaintJr&show_icons=true&count_private=true&hide_border=true&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RSaintJr&theme=high-contrast"/>
 </div>
 
 
