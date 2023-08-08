@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java, PHP and C++
   
 
-- 🎮 Ask me anything about games and manga  
+- 🎮 Ask me anything about games
   
 
 - ⚡ Fun fact: I've been playing video games since I was 5  
