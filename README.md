@@ -3,29 +3,23 @@
 </div>
 
 <h1 align="center">Hi, I'm Roberto Jr!</h1>
-<p align="center">I'm a 19-year-old computer science student at IFC - Rio do Sul.</p>
+<p align="center">19-year-old computer science student at IFC - Rio do Sul</p>
 
 <br/>
 
-<div align="center">
-  <h2>🌱 Currently Learning</h2>
-  <p>Java, PHP, and C++</p>
-</div>
+<h2 align="center">🌱 Currently Learning</h2>
+<p align="center">Java, PHP, C++</p>
 
-<div align="center">
-  <h2>🎮 Ask Me About</h2>
-  <p>Anything related to games</p>
-</div>
+<h2 align="center">🎓 Philosophy</h2>
+<p align="center">"Learning never exhausts the mind." - Leonardo da Vinci</p>
 
-<div align="center">
-  <h2>⚡ Fun Fact</h2>
-  <p>I've been playing video games since I was 5</p>
-</div>
+<h2 align="center">⚡ Fun Fact</h2>
+<p align="center">I've been playing video games since I was 5</p>
 
 <br/>  
 
+<h2 align="center">Skills</h2>
 <div align="center">
-  <h2>Skills</h2>
   <table>
     <tr>
       <td valign="top" width="33%">
