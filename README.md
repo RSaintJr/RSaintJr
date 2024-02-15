@@ -8,7 +8,7 @@
 <br/>
 
 <h2 align="center">🌱 Currently Learning</h2>
-<p align="center">Java, PHP, C++</p>
+<p align="center">Java, Unity Engine, C#</p>
 
 <h2 align="center">🎓 Philosophy</h2>
 <p align="center">"Learning never exhausts the mind." - Leonardo da Vinci</p>
