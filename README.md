@@ -2,19 +2,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Hi, I'm Roberto Jr!</h1>
-<p align="center">19-year-old computer science student at IFC - Rio do Sul</p>
+<h1 align="center">Hi there, I'm Roberto Jr!</h1>
+<p align="center">I'm a 19-year-old computer science student at IFC - Rio do Sul.</p>
 
 <br/>
 
 <h2 align="center">🌱 Currently Learning</h2>
-<p align="center">Java, Unity Engine, C#</p>
+<p align="center">I'm currently diving into Java, Unity Engine, and C#.</p>
 
 <h2 align="center">🎓 Philosophy</h2>
 <p align="center">"Learning never exhausts the mind." - Leonardo da Vinci</p>
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">I've been playing video games since I was 5</p>
+<p align="center">I've been gaming since the tender age of 5.</p>
 
 <br/>  
 
@@ -31,7 +31,7 @@
       <td valign="top" width="33%">
         <h3>Backend</h3>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
         <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
       </td>
     </tr>
@@ -46,13 +46,6 @@
   <a href="mailto:robertomep7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-</div>
-
-<br/>
-
-<h2 align="center">Activity Graph</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=RSaintJr&theme=high-contrast"/>
 </div>
 
 <br/>
