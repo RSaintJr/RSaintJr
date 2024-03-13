@@ -2,21 +2,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Roberto Jr!</h1>
-<p align="center">I'm a 19-year-old computer science student at IFC - Rio do Sul.</p>
-
-<br/>
+<h1 align="center">Hi, I'm Roberto Jr!</h1>
+<p align="center">Computer Science Student at IFC - Rio do Sul</p>
 
 <h2 align="center">🌱 Currently Learning</h2>
-<p align="center">I'm currently diving into Java, Unity Engine, and C#.</p>
+<p align="center">Java, Unity Engine, C#</p>
 
 <h2 align="center">🎓 Philosophy</h2>
 <p align="center">"Learning never exhausts the mind." - Leonardo da Vinci</p>
 
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">I've been gaming since the tender age of 5.</p>
-
-<br/>  
+<p align="center">Been gaming since age 5</p>
 
 <h2 align="center">Skills</h2>
 <div align="center">
@@ -24,15 +20,15 @@
     <tr>
       <td valign="top" width="33%">
         <h3>Frontend</h3>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
       </td>
       <td valign="top" width="33%">
         <h3>Backend</h3>
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
       </td>
     </tr>
   </table>
