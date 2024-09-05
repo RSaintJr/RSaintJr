@@ -6,7 +6,7 @@
 <p align="center">Computer Science Student at IFC - Rio do Sul</p>
 
 <h2 align="center">🌱 Currently Learning</h2>
-<p align="center">Java, Unity Engine, C#</p>
+<p align="center">Java, Unity, C#</p>
 
 <h2 align="center">🎓 Philosophy</h2>
 <p align="center">"Learning never exhausts the mind." - Leonardo da Vinci</p>
