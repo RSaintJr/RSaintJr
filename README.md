@@ -28,12 +28,12 @@
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="50" />
 
   <h3>Backend</h3>
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="50" />
 </div>
 
 ## 🎮 Fun Fact
