@@ -1,49 +1,39 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="300px" />
+  <img src="https://i.imgur.com/y868o5W.gif" width="100%" height="450px" />
 </div>
 
-<h1 align="center">Hi, I'm Roberto Jr! 👋</h1>
+# *Roberto Jr*
 
-<div align="center">
-  
-  🎓 Computer Science Student at IFC - Rio do Sul
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-guimarães-8156a5257)
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertomep7@gmail.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RSaintJr&&style=flat-square)
-</div>
+## *Prologue*
 
-## 🚀 Currently Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div>
+Hello, my name is Roberto Guimarães and I'm 21 years old. I'm studying Computer Science at IFC-Rio do Sul and I'm currently studying C#, Unity and Java technologies. I'm interested in developing games and applications using these tools. I'm always looking to learn new languages ​​and frameworks to improve my skills.
 
-## 💻 Skills
+## *Chapter I: Currently Learning*
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="50" />
+- Java
+- Unity
+- C#
 
-  <h3>Backend</h3>
-  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-</div>
+## *Chapter II: Set of Skills*
 
-## 🎮 Fun Fact
-<div align="center">
-  Been gaming since age 5 🎮
-</div>
+**Front-End**  
+HTML5 • CSS3 • Bootstrap • JavaScript
 
-## 💭 Philosophy
-<div align="center">
-  <i>"Education has bitter roots, but its fruits are sweet"</i>
+**Back-End**  
+PHP • C# • Java
+
+## *Chapter III: Words of Wisdom*
+
+> "Education has bitter roots, but its fruits are sweet"  
+> — *Aristotle*
+
+## *Appendix: Contacting the Author*
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-guimarães-8156a5257)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertomep7@gmail.com)
+
+<div align="right">
+  <i>Views of this book: </i>
   <br>
-  - Aristotle
+  <img src="https://komarev.com/ghpvc/?username=RSaintJr&&style=flat-square" alt="Profile Views" />
 </div>
