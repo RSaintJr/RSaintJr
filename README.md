@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/y868o5W.gif" width="100%" height="450px" />
+  <img src="https://i.imgur.com/y868o5W.gif" width="100%" height="350px" />
 </div>
 
 # *Roberto Jr*
