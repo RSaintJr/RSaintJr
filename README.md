@@ -1,26 +1,31 @@
 <div align="center">
-  <img src="https://i.imgur.com/y868o5W.gif" width="100%" height="350px" />
+  <img src="https://media1.tenor.com/m/Iu6K9JSRnREAAAAd/van-gogh.gif" width="100%" height="500px" />
 </div>
 
 # *Roberto Jr*
 
 ## *Prologue*
 
-Hello, my name is Roberto Guimarães and I'm 21 years old. I'm studying Computer Science at IFC-Rio do Sul and I'm currently studying C#, Unity and Java technologies. I'm interested in developing games and applications using these tools. I'm always looking to learn new languages ​​and frameworks to improve my skills.
+Hello, my name is Roberto Guimarães. I am a Computer Science student at IFC-Rio do Sul. Building on a solid foundation of professional backend experience using PHP, I am currently focusing my career on **Python**, **Software Engineering**, and **Artificial Intelligence/Machine Learning**. 
 
-## *Chapter I: Currently Learning*
+I am passionate about architecting real-world web applications (SaaS), modeling robust databases, and integrating intelligent data features into software. I am always looking for complex problems to solve and new technologies to master.
 
-- Java
-- Unity
-- C#
+## *Chapter I: Currently Learning & Exploring*
+
+- Python & Django Framework (Building scalable SaaS)
+- Artificial Intelligence & Machine Learning
+- Database Modeling & ORM
+- RESTful API Development
 
 ## *Chapter II: Set of Skills*
 
-**Front-End**  
-HTML5 • CSS3 • Bootstrap • JavaScript
+**Back-End & Architecture**: Python • Django • PHP • REST APIs • Java
 
-**Back-End**  
-PHP • C# • Java
+**DevOps & Infrastructure**: Docker • Linux • Git & GitHub
+
+**Databases**: PostgreSQL • MySQL 
+
+**Front-End**: HTML5 • CSS3 • Bootstrap • JavaScript
 
 ## *Chapter III: Words of Wisdom*
 
