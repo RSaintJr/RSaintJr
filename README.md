@@ -6,26 +6,24 @@
 
 ## *Prologue*
 
-Hello, my name is Roberto Guimarães. I am a Computer Science student at IFC-Rio do Sul. Building on a solid foundation of professional backend experience using PHP, I am currently focusing my career on **Python**, **Software Engineering**, and **Artificial Intelligence/Machine Learning**. 
+Hello, my name is Roberto Guimarães. Building on a solid foundation of professional backend experience, where I tackled complex database reporting, data aggregations, and robust system integrations. I am currently focusing my career on the **.NET ecosystem** and **Software Architecture**. 
 
-I am passionate about architecting real-world web applications (SaaS), modeling robust databases, and integrating intelligent data features into software. I am always looking for complex problems to solve and new technologies to master.
+I am passionate about building scalable RESTful APIs, modeling high-performance relational databases, and designing systems that translate complex business rules into clean, maintainable code. I am always looking for challenging architectural problems to solve.
 
 ## *Chapter I: Currently Learning & Exploring*
 
-- Python & Django Framework (Building scalable SaaS)
-- Artificial Intelligence & Machine Learning
-- Database Modeling & ORM
-- RESTful API Development
+- **C# & .NET 8:** Building scalable and robust Web APIs.
+- **Software Architecture:** Layered architectures, Service Patterns, and DTOs.
+- **Data Persistence:** Entity Framework Core and advanced SQL optimizations.
+- **Next Steps:** Containerization (Docker), Automated Testing, and Global Exception Handling.
 
 ## *Chapter II: Set of Skills*
 
-**Back-End & Architecture**: Python • Django • PHP • REST APIs • Java
+**Back-End & Architecture**: C# • .NET • PHP • REST APIs • Software Design
 
-**DevOps & Infrastructure**: Docker • Linux • Git & GitHub
+**Databases**: SQL • PostgreSQL • MySQL • SQLite
 
-**Databases**: PostgreSQL • MySQL 
-
-**Front-End**: HTML5 • CSS3 • Bootstrap • JavaScript
+**DevOps & Infrastructure**: Git & GitHub • Linux • Docker
 
 ## *Chapter III: Words of Wisdom*
 
