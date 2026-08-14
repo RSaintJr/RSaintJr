@@ -12,7 +12,7 @@ I am passionate about building scalable RESTful APIs, modeling high-performance 
 
 ## *Chapter I: Currently Learning & Exploring*
 
-- **C# & .NET 8:** Building scalable and robust Web APIs.
+- **C# & .NET 10:** Building scalable and robust Web APIs.
 - **Software Architecture:** Layered architectures, Service Patterns, and DTOs.
 - **Data Persistence:** Entity Framework Core and advanced SQL optimizations.
 - **Next Steps:** Containerization (Docker), Automated Testing, and Global Exception Handling.
